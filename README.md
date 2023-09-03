@@ -1,1 +1,1 @@
-# ymy.ouc.mud
+# ymy.cs.ouc
